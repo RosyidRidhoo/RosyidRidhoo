@@ -6,7 +6,7 @@ I am Student in Faculty of Computing (Software Engineering) in Universiti Teknol
 
 * 🌍  I'm based in Indonesia
 * ✉️  You can contact me at [rosyidridho3011@gmail.com](mailto:rosyidridho3011@gmail.com)
-* *   🖥️  See my portfolio at [MyPortofolio](http://http://127.0.0.1:5500/TIS/index.html#)
+* *   🖥️  See my portfolio at [MyPortofolio](http://http://127.0.0.1:5500/TIS/https://rosyidridhoo.github.io/)
 * 🧠  I'm learning Software Engineering
 * 🤝  I'm open to collaborating on Projects & Assesment
 * ⚡  Nice to meet y'all cyaa from ocid
